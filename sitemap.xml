@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>gydetrust.org</loc>
+	<lastmod>2024-06-28</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>gydetrust.org/img/kid-smiling.png</image:loc>
+	<image:title>kid smiling</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>gydetrust.org/img/two-children-in-uniform.jpeg</image:loc>
+	<image:title>two children-in-uniform.jpeg</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>gydetrust.org/img/child-focusing-on-camera-avator.png</image:loc>
+	<image:title>child focusing-on-camera-avator</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>gydetrust.org/img/eugene-avator.png</image:loc>
+	<image:title>eugene avator</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>gydetrust.org/img/sawman-avator.png</image:loc>
+	<image:title>sawman avator</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>gydetrust.org/img/google.png</image:loc>
+	<image:title>google</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>gydetrust.org/img/facebook.png</image:loc>
+	<image:title>facebook</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>gydetrust.org/img/stripe.png</image:loc>
+	<image:title>stripe</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>gydetrust.org/img/yahoo.png</image:loc>
+	<image:title>yahoo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>gydetrust.org/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>gydetrust.org/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+</urlset>
