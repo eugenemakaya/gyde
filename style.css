@@ -382,7 +382,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	color:transparent!important;
 }
 .nav-list{
-	height:32px;
+	height:73px;
 	width:100%;
 	color:transparent!important;
 }
@@ -392,6 +392,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .navbar-logo{
 	margin-right:140px;
 	font-weight:900;
+	height:90px;
 }
 .navbar-buttons:hover{
 	color:#FEE1A2!important;
